@@ -13,6 +13,7 @@ Education
 ======
 * Ph.D in Theoretical Physics, National Central University University (Taiwan), 2028 (expected)
 * M.S. in Experimental High-Energy Physics, National Central University University (Taiwan), 2024
+  * Thesis: Search for \\(H\to\gamma^{\ast}\gamma\to\mu\mu\gamma\\) using full Run-2 data collected by the CMS detector
 * B.S. in Applied Physics major in Instrumentation, University of Santo Tomas (Philippines), 2017
 
 Research Experience
@@ -70,58 +71,6 @@ Research Experience
     * Assisted in preparing presentations and reports to communicate findings, contributing to team meetings and seminars.
     * Gained hands-on experience with cutting-edge technologies in a fast-paced research environment, reinforcing a strong foundation in data analysis methodologies.
   * Supervisor: Prof. Chia-Ming Kuo
- <!--
-General Skills
-======
-* Analytical and Reasoning Skills
-  * Critical Thinking
-  * Problem Solving
-* Attention to Detail
-  * High level of accuracy
-* Competitive intelligence
-* Flexible approach
-* Easily adaptable
-* Management skills
-  * Organization skills
-  * Project management
-  * Time management
-* Leadership
-* Interpersonal Skills
-  * Oral and written communication
-  * Constructive feedback
-  * Teamwork and collaboration
-* Writing and presentation skills
-  * Technical writing
-  * Reporting and analysis
-
-
-Industry Skills
-======
-* Competitive research skills
-  * Graduate level research
-  * Interdisciplinary research
-  * Quantitative research
-  * Literature reviews
-  * Technical writing
-* Mathematical analysis
-  * Mathematical modeling
-  * Numerical analysis
-  * Mathematical programming
-  * Numerical simulation
-* Academic skills
-  * Competitive intelligence
-  * Academi achievement
-  * Academic advising 
-  * Academic support
-  * STEM education
-  * Teaching, tutoring, mentoring
-* Statistical data analysis
-  * Machine learning
-  * Numerical optimization
-  * Data visualization
-  * Satistical modeling 
-  * Big data
--->
 
 Publications
 ======
