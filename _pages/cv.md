@@ -48,8 +48,8 @@ Research Experience
     * Developing and implementing alorithms for data analysis (using ROOT/C++, and PyROOT/Python).
     * Preparing research papers, notes, and presentations.
     * Collaborating with international teams to share findings and methodologies.
-  *Research Projects:
-    * Search for the rare Higgs Dalitz decays in proton-proton collisions at the LHC during the Run-2 era using the CMS Detector (hep-ex, hep-ph)
+  * Research Projects:
+    * Search for the rare Higgs Dalitz decays in proton-proton collisions at the LHC during the Run-2 era using the CMS Detector (hep-ex)
     * Data quality monitoring of the CMS Detector Electromagnetic Calorimeter (ECAL) and Preshower (hep-ex)
     * Electron and photon reconstruction and identification with the CMS experiment at the CERN LHC (hep-ex)
     * Muon and Photon trigger efficiency measurements for the CMS Collaboration (hep-ex)

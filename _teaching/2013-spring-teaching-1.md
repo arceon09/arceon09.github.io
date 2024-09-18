@@ -4,7 +4,7 @@ collection: teaching
 type: "Tutoring"
 permalink: /teaching/STEM_tutor
 venue: "Freelance (Hybrid)"
-date: 2023-05-01
+date: 2013-05-01
 location: "Manila, Philippines"
 ---
 
@@ -16,7 +16,7 @@ Responsibilities
 * Monitoring student progress through regular assessments.
 * Providing constructive feedback to foster academic growth and confidence.
 
-Skills:
+Skills
 ======
 * General Skills: flexible approach, easily adaptable, organization skills, critical thinking, problem solving, attention to detail, analytic skills, reasoning skills, time management, competitive intelligence
 * Interpersonal Skills: oral and written communication, presentation skills, constructive feedback, 
