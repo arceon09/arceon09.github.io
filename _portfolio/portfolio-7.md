@@ -1,6 +1,6 @@
 ---
 title: "3rd Place in the Physiklaban 2017 Intercollegiate Physics Quiz Bee"
-excerpt: "Issued by the Samahan ng Mag-aaral sa Pagpapaunlad ng Pisika. <br/><img src='/files/physiklaban.jpg>"
+excerpt: "Issued by the Samahan ng Mag-aaral sa Pagpapaunlad ng Pisika. <br/><img src='/files/physiklaban.jpg'>"
 collection: portfolio
 ---
 
