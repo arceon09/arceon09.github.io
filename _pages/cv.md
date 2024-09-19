@@ -47,7 +47,7 @@ Research Experience
     * Preparing research papers, notes, and presentations.
     * Collaborating with international teams to share findings and methodologies.
   * **Research Projects:**
-    * _Search for the rare Higgs Dalitz decays in proton-proton collisions at the LHC during the Run-2 era using the CMS Detector (hep-ex)
+    * _Search for the rare Higgs Dalitz decays in proton-proton collisions at the LHC during the Run-2 era using the CMS Detector_ (hep-ex)
     * _Data quality monitoring of the CMS Detector Electromagnetic Calorimeter (ECAL) and Preshower_ (hep-ex)
     * _Electron and photon reconstruction and identification with the CMS experiment at the CERN LHC_ (hep-ex)
     * _Muon and Photon trigger efficiency measurements for the CMS Collaboration_ (hep-ex)
