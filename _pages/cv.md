@@ -89,18 +89,11 @@ Teaching
 
 Honors and Awards 
 ======
-* _Excellent Research Poster Award:_ Issued by the Physical Society of Taiwan on January of 2023
-* _Taiwan Ministry of Science and Technology Scholarship:_ Issued by the Ministry of Science and Technology (MOST) of Taiwan on July of 2017
-* _Academic Excellence Awards:_ Issued by the University of Santo Tomas on May of 2017
-* _Albertus Magnus Medallion:_ Issued by the University of Santo Tomas on May of 2017
-* _Graduated with Latin Honor (Cum Laude):_ Issued by the University of Santo Tomas on May of 2017
-* _1st Place in the Applied Physics Thesis Poster Exhibit:_ Issued by the University of Santo Tomas, College of Science on March of 2017
-* _3rd Place in the Physiklaban Intercollegiate Physics Quiz Bee 2017:_ Issued by the Samahan ng Mag-aaral sa Pagpapauland ng Pisika on January of 2017
-  *  Featured in an article in the official website of the University of Santo Tomas [(BS Applied Physics students win third place in inter-school quiz bee)](https://www.ust.edu.ph/bs-applied-physics-students-win-third-place-in-inter-school-quiz-bee/) on March 27, 2017
-* _1st Place in the 6th Face the Physics Challenge:_ Issued by the University of Santo Tomas, Department of Math and Physics on January of 2017
-* _Dean's Lister (7 times):_ Issued by the University of Santo Tomas.
+  <ul>{% for post in site.portfolio reversed %}
+    {% include archive-single-cv.html  %}
+  {% endfor %}</ul>
 
-Service and leadership
+Service and Leadership
 ======
 * President of the UST Applied Physics Society (2016 - 2017)
   * Innaugurated the annual **Astronomy Night - Telescope Viewing** event of the University of Santo Tomas, in partnership with the UST College of Science Student Council.
