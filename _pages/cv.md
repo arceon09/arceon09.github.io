@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[http://arceon09.github.io/files/CV_JAVillamoran.pdf](Click here for a pdf version of this CV.)
+[Click here for a pdf version of this CV.](http://arceon09.github.io/files/CV_JAVillamoran.pdf)
 
 Education
 ======
