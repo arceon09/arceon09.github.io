@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[http://arceon09.github.io/files/CV_JAVillamoran.pdf](Click here for a pdf version of this CV.)
+
 Education
 ======
 * _Ph.D in Theoretical Physics_, National Central University University (Taiwan), 2028 (expected)
